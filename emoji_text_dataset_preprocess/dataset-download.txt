@@ -1,0 +1,1 @@
+Please download dataset from https://www.kaggle.com/datasets/subinium/emojiimage-dataset and unzip it here
