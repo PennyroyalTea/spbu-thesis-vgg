@@ -1,1 +1,3 @@
-Please download dataset from https://www.kaggle.com/datasets/subinium/emojiimage-dataset and unzip it here
+1. Please download dataset from https://www.kaggle.com/datasets/subinium/emojiimage-dataset and unzip it here
+2. Please run ./load_embeddings.sh in order to download embedding descriptions (YOU NEED ATLEAST 2.2 GB TO DO THAT) 
+3. Please run python3 generate_dataset.csv to create dataset with emoji embeddings
